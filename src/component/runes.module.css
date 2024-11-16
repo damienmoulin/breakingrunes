@@ -1,0 +1,5 @@
+.min, .max {
+  padding: 5px;;
+  background: var(--button-primary-hover);
+  color: var(--button-secondary-hover);
+}
